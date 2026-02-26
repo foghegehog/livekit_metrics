@@ -1,0 +1,4 @@
+prompt_tokens,completion_tokens,tokens_per_second,ttft
+25,9,7.7144,1.0099
+38,16,12.8191,0.9252
+70,76,26.1364,0.9596

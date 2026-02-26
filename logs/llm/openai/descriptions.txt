@@ -1,0 +1,9 @@
+gpt-4.1-nano:Smallest model in the GPT-4.1 family, positioned for cost-efficient and lightweight deployments.
+gpt-4.1-mini:Compact variant of GPT-4.1 balancing general capability and resource usage.
+gpt-4.1:Full-scale GPT-4.1 model intended for general-purpose reasoning and instruction following.
+gpt-4o:Multimodal model from the GPT-4o series supporting text and audio inputs.
+gpt_4o_mini:Reduced-size version of GPT-4o optimized for lower compute usage.
+gpt-oss-120b:Open-weight 120B Mixture-of-Experts model available via hosted inference.
+gpt-5-mini:Mid-tier model in the GPT-5 family targeting balanced reasoning workloads.
+gpt-5-nano:Compact reasoning-capable model in the GPT-5 family.
+gpt-5:Flagship GPT-5 model intended for advanced reasoning and agentic tasks. 

@@ -1,0 +1,4 @@
+gpt-oss-120b:Open-weight 120B MoE model served via Cerebras inference infrastructure.
+llama-3.3-70b:70B dense model from the Llama 3.3 family.
+qwen-3-32b:32B parameter model from the Qwen 3 series supporting instruction-following workflows.
+llama-3.1-8b:Compact 8B model from the Llama 3.1 family.
