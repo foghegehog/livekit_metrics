@@ -13,3 +13,5 @@ Benchmarking the LLM models available for free in the LiveKit Voice Agents SDK.
 - **[logs](logs)** — Measurement results from different models.
 
 Instructions for running LiveKit Voice Agents using the `uv` package manager are available in the [LiveKit Voice AI quickstart](https://docs.livekit.io/agents/start/voice-ai-quickstart/).
+<br><br><br>
+![LLM Latency vs Throughput](img/LatencyThroughput.png)
